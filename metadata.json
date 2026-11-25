@@ -1,0 +1,6 @@
+{
+  "name": "APK Forge",
+  "description": "Mobile Android IDE & APK Builder Studio for importing ZIP or GitHub projects, editing Kotlin/Java/XML/Gradle/Web sources, validating manifests, and building APKs via GitHub Actions or remote Gradle runners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
